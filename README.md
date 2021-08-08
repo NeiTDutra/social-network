@@ -11,7 +11,7 @@ social-networking-site](https://github.com/LucianoCordeiro/social-networking-sit
 
 *Projeto desenvolvido no bootcamp Impulso FullStack Developer da Digital Innovation One Inc.*
 
-Este projeto segue os termos de uma licença [MIT]()
+:heavy_check_mark: Este projeto segue os termos de uma licença :copyright: [MIT](https://github.com/NeiTDutra/dio-social-network-ruby/blob/master/LICENSE)
 
 Consiste em uma rede social com:
 
