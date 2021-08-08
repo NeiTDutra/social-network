@@ -11,6 +11,8 @@ social-networking-site](https://github.com/LucianoCordeiro/social-networking-sit
 
 *Projeto desenvolvido no bootcamp Impulso FullStack Developer da Digital Innovation One Inc.*
 
+Este projeto segue os termos de uma licença [MIT]()
+
 Consiste em uma rede social com:
 
 - Cadastro;
